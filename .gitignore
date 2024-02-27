@@ -1,5 +1,5 @@
-.venv/
-__pycache__/
-*.pyc
-*.yaml
-*.yml
+lab_report_env/
+.venv
+models/config.yml
+
+

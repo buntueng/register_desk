@@ -1,0 +1,5 @@
+command
+pyside6-designer
+
+compile
+pyside6-uic MainWindow.ui -o ui_mainwindow.py
